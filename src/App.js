@@ -24,15 +24,13 @@ import './App.css';
 import "react-responsive-carousel/lib/styles/carousel.min.css"; // requires a loader
 import { Carousel } from 'react-responsive-carousel';
 
-const pages = [14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33];
-
 function App() {
   return (
     <div className="App">
       <div className='flex justify-center items-center h-screen bg-slate-600'>
         <Carousel
           thumbWidth={50} 
-          dynamicHeight={700} 
+          dynamicHeight={600} 
           emulateTouch={true}
         >
           <img src={PAGE14}/>
