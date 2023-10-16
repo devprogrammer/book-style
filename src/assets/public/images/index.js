@@ -1,0 +1,21 @@
+export { default as PAGE14 } from './IMG-0014.png';
+export { default as PAGE15 } from './IMG-0015.png';
+export { default as PAGE16 } from './IMG-0016.png';
+
+export { default as PAGE17 } from './IMG-0017.png';
+export { default as PAGE18 } from './IMG-0018.png';
+export { default as PAGE19 } from './IMG-0019.png';
+export { default as PAGE20 } from './IMG-0020.png';
+export { default as PAGE21 } from './IMG-0021.png';
+export { default as PAGE22 } from './IMG-0022.png';
+export { default as PAGE23 } from './IMG-0023.png';
+export { default as PAGE24 } from './IMG-0024.png';
+export { default as PAGE25 } from './IMG-0025.png';
+export { default as PAGE26 } from './IMG-0026.png';
+export { default as PAGE27 } from './IMG-0027.png';
+export { default as PAGE28 } from './IMG-0028.png';
+export { default as PAGE29 } from './IMG-0029.png';
+export { default as PAGE30 } from './IMG-0030.png';
+export { default as PAGE31 } from './IMG-0031.png';
+export { default as PAGE32 } from './IMG-0032.png';
+export { default as PAGE33 } from './IMG-0033.png';
